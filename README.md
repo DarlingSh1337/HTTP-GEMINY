@@ -18,11 +18,13 @@ INSTALL NODEJ AND NPM
 Ubuntu: *
 
 apt install nodejs
+
 apt install npm
 
 Centos: *
 
 yum install nodejs 
+
 yum install npm
 
     npm i request
