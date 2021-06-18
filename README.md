@@ -4,8 +4,6 @@
 # Made for test only this script is very powerfull on small server, more cpu ram more damage that logique
 #
 # HTTP-GEMINY
-#
-######################################################################################################################################################################
 
 🧨 This script is encoded to prevent skido change script🧨
 
