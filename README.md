@@ -11,7 +11,7 @@
 
     git clone https://github.com/DarlingSh1337/http-geminy
 
-    cd HTTP-GEMINY
+    cd http-geminy
 
 #Installation Tutoriel for Skido
 
