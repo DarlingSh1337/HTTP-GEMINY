@@ -9,7 +9,7 @@
 
 #Clone and Install Script
 
-    git clone https://github.com/DarlingSh1337/HTTP-SENPAI/
+    git clone https://github.com/DarlingSh1337/http-geminy
 
     cd HTTP-GEMINY
 
