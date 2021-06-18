@@ -17,9 +17,15 @@
 
 INSTALL NODEJ SAND NPM
 
-apt install nodejs apt install npm
+Ubuntu: *
 
-yum install nodejs yum install npm
+apt install nodejs
+apt install npm
+
+Centos: *
+
+yum install nodejs 
+yum install npm
 
     npm i request
 
