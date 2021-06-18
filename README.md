@@ -13,7 +13,7 @@
 
 #Installation Tutoriel for Skido
 
-INSTALL NODEJ SAND NPM
+INSTALL NODEJ AND NPM
 
 Ubuntu: *
 
