@@ -45,5 +45,5 @@ yum install npm
 
     node http-geminy.js url proxylist.txt time method coockie(if you whant you dont need coockie)
 
-    node http-geminy.js https://www.zataz.com/ http.txt 90 GET PHPSESSID:tisv10jeevnd5k7lrbt1a5h4l7
+    node http-geminy.js https://www.zataz.com/ http.txt 90 GET PHPSESSID=tisv10jeevnd5k7lrbt1a5h4l7
 
